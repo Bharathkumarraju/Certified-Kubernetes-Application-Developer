@@ -7,3 +7,4 @@ when we install k8s we will be installing below k8s components
 5. Controllers.
 6. Schedulers --> Distribute containers or apps across multiple nodes, it looks for newly created containers and assigns them to nodes.
 
+k8s does container orchestration.
